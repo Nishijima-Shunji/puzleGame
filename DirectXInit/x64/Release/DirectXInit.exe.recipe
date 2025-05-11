@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\ykrsi\OneDrive\デスクトップ\DX21_07_AT12B427_36\DX21_07_AT12B427_36\制作環境\x64\Release\DirectXInit.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\ykrsi\OneDrive\デスクトップ\DX21_07_AT12B427_36\DX21_07_AT12B427_36\制作環境\x64\Release\PixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\ykrsi\OneDrive\デスクトップ\DX21_07_AT12B427_36\DX21_07_AT12B427_36\制作環境\x64\Release\VertexShader.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

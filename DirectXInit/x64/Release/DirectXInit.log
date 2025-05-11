@@ -1,0 +1,29 @@
+﻿  compilation object save succeeded; see C:\Users\ykrsi\OneDrive\デスクトップ\DX21_07_AT12B427_36\DX21_07_AT12B427_36\制作環境\x64\Release\PixelShader.cso
+  compilation object save succeeded; see C:\Users\ykrsi\OneDrive\デスクトップ\DX21_07_AT12B427_36\DX21_07_AT12B427_36\制作環境\x64\Release\VertexShader.cso
+  sound.cpp
+  system.cpp
+C:\Users\ykrsi\OneDrive\デスクトップ\DX21_07_AT12B427_36\DX21_07_AT12B427_36\制作環境\DirectXInit\Object.h(53,17): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ykrsi\OneDrive\デスクトップ\DX21_07_AT12B427_36\DX21_07_AT12B427_36\制作環境\DirectXInit\system.cpp(17,52): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\ykrsi\OneDrive\デスクトップ\DX21_07_AT12B427_36\DX21_07_AT12B427_36\制作環境\DirectXInit\system.cpp(79,16): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\ykrsi\OneDrive\デスクトップ\DX21_07_AT12B427_36\DX21_07_AT12B427_36\制作環境\DirectXInit\system.cpp(80,13): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\ykrsi\OneDrive\デスクトップ\DX21_07_AT12B427_36\DX21_07_AT12B427_36\制作環境\DirectXInit\system.cpp(81,13): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\ykrsi\OneDrive\デスクトップ\DX21_07_AT12B427_36\DX21_07_AT12B427_36\制作環境\DirectXInit\system.cpp(139,19): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ykrsi\OneDrive\デスクトップ\DX21_07_AT12B427_36\DX21_07_AT12B427_36\制作環境\DirectXInit\system.cpp(258,19): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\ykrsi\OneDrive\デスクトップ\DX21_07_AT12B427_36\DX21_07_AT12B427_36\制作環境\DirectXInit\system.cpp(269,19): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  direct3d.cpp
+C:\Users\ykrsi\OneDrive\デスクトップ\DX21_07_AT12B427_36\DX21_07_AT12B427_36\制作環境\DirectXInit\direct3d.cpp(288,30): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  Game.cpp
+C:\Users\ykrsi\OneDrive\デスクトップ\DX21_07_AT12B427_36\DX21_07_AT12B427_36\制作環境\DirectXInit\Object.h(53,17): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ykrsi\OneDrive\デスクトップ\DX21_07_AT12B427_36\DX21_07_AT12B427_36\制作環境\DirectXInit\Game.cpp(62,24): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  input.cpp
+  main.cpp
+C:\Users\ykrsi\OneDrive\デスクトップ\DX21_07_AT12B427_36\DX21_07_AT12B427_36\制作環境\DirectXInit\Object.h(53,17): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+  Object.cpp
+C:\Users\ykrsi\OneDrive\デスクトップ\DX21_07_AT12B427_36\DX21_07_AT12B427_36\制作環境\DirectXInit\Object.h(53,17): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+  WICTextureLoader.cpp
+  コード生成しています。
+  141 of 141 functions (100.0%) were compiled.
+    13 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  DirectXInit.vcxproj -> C:\Users\ykrsi\OneDrive\デスクトップ\DX21_07_AT12B427_36\DX21_07_AT12B427_36\制作環境\x64\Release\DirectXInit.exe
